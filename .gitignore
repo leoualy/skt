@@ -3,3 +3,11 @@
 ################################################################################
 
 /Echo/Src/cs/Echo.Client/bin/Debug/net5.0
+/Echo/.vs/Echo/v16
+/Echo/Src/cs/Echo.Client/obj
+/Echo/Src/cs/Echo.Server/bin/Debug/net5.0
+/Echo/Src/cs/Echo.Server/obj
+/Echo/Src/cs/Echo.Tcp/bin/Debug/net5.0
+/Echo/Src/cs/Echo.Tcp/obj
+/Echo/Src/cs/Echo.ServerM/bin/Debug/net5.0
+/Echo/Src/cs/Echo.ServerM/obj
